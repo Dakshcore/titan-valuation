@@ -59,6 +59,6 @@ By default the script uses the 25-Sep-2026 close, so it reproduces the numbers a
 - Forecast assumptions to FY2029, cost of equity and exit multiple: Alpha Spread's TITAN DCF base case, retrieved 26-Sep-2026.
 - Share price: Yahoo Finance (TITAN.NS), close of ₹4,884 on 25-Sep-2026.
 
-*Student research for education only; not investment advice.*
+MIT licence (see [LICENSE](LICENSE)). *Student research for education only; not investment advice.*
 
 Daksh Chaudhary · B.Sc. (Hons.) Computer Science, Keshav Mahavidyalaya, University of Delhi · [LinkedIn](https://www.linkedin.com/in/dakshchaudhary-finance)
